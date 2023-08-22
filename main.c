@@ -14,7 +14,7 @@ int main(void)
     int len;
     int len2;
     unsigned int ui;
-    uintptr_t *addr;
+    void *addr;
 =======
 	int len;
 	int len2;
